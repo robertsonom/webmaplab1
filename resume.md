@@ -50,4 +50,4 @@ Driver (2023-Present)
 
 ---
 
-<img src="applogo.png" width=41% height=auto>
+<img src="./applogo.png" alt="Appalachian State University Logo" width="46%"/>
