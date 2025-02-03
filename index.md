@@ -1,7 +1,9 @@
 # Owen Robertson
 
 <owenr0724@gmail.com>
+
 704 - 975 - 3350
+
 Boone, NC / Charlotte NC
 
 Geographic Information Systems and Planning double major at Appalachian State University. Experienced in GIS analysis, data visualization, and creative design. Highly analytical, organized, and detail-oriented with comprehensive communications experience.
@@ -10,7 +12,7 @@ Geographic Information Systems and Planning double major at Appalachian State Un
 
 ### Education
 
-###### [Appalachian State University, Department of Geograpy and Planning](https://geo.appstate.edu)
+##### [Appalachian State University, Department of Geograpy and Planning](https://geo.appstate.edu)
 
 Major in Geographic Information Systems
 Major in Community and Regional Planning
