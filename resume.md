@@ -2,9 +2,11 @@
 
 <owenr0724@gmail.com>
 704 - 975 - 3350
-Boone, North Carolina
+Boone, NC / Charlotte NC
 
-Double Major in Geographic Information Systems and Community and Regional Planning at Appalachian State university. Experienced in GIS and graphic design and technology.
+Geographic Information Systems and Planning double major at Appalachian State University. Experienced in GIS analysis, data visualization, and creative design. Highly analytical, organized, and detail-oriented with comprehensive communications experience.
+
+---
 
 ### Education
 
@@ -13,7 +15,9 @@ Double Major in Geographic Information Systems and Community and Regional Planni
 Major in Geographic Information Systems
 Major in Community and Regional Planning
 
-Microsoft Excel Certificate
+Microsoft Excel Associate Certificate
+
+Chancellor's List
 
 3.67 GPA
 
@@ -30,12 +34,20 @@ Driver (2023-Present)
 
 ### Skills
 
-* ArcGIS
-* Cartography
-* Coding (R, Python)
-* Adobe Illustrator
-* Adobe Photoshop
-* Graphic Design
-* 110 WPM Typist
+* GIS Software Operation
+* Microsoft Excel (Certification)
+* 100+ WPM Typist
+* Coding (R / Python)
+* Adobe Products
+* Cartographic Design
+* Image Editing
+* Data Visualization
+* Creative Design
+* Organizational Skills
+* Attention to Detail
+* Email Etiquette
+* Creative Problem Solving
+
+---
 
 <img src="applogo.png" width=41% height=auto>
